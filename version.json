@@ -1,0 +1,8 @@
+{
+  "version": "1.7.0",
+  "entry": "app-v1.7/main.js",
+  "released": "2026-10-03",
+  "questionSpacing": 3000,
+  "enemy": "grumpy-cloud",
+  "finale": "word-garden"
+}
